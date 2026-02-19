@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Shivam Sharma
 
-<!--
-**shivamsharma-cloudops/shivamsharma-cloudops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Azure Cloud & DevOps Engineer  
 
-Here are some ideas to get you started:
+💼 Experienced in building scalable cloud infrastructure and CI/CD pipelines  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☁️ Cloud & DevOps Skills
+
+🔹 Microsoft Azure  
+🔹 Terraform (Infrastructure as Code)  
+🔹 CI/CD Pipelines  
+🔹 Git & GitHub  
+🔹 Docker & Kubernetes  
+🔹 Linux Administration  
+🔹 Monitoring & Automation  
+
+---
+
+## 🛠️ Tools & Technologies
+
+Azure • Terraform • GitHub Actions • Docker • Kubernetes • Linux • Bash • YAML  
+
+---
+
+## 📌 What I Do
+
+✔️ Automate infrastructure using Terraform  
+✔️ Build CI/CD pipelines  
+✔️ Deploy containerized applications  
+✔️ Manage cloud environments on Azure  
+✔️ Optimize performance & scalability  
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: shivam.sharma.cloud.ops@gmail.com
+
+---
+
+⭐ Always learning new cloud & DevOps technologies
