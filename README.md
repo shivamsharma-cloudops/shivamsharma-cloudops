@@ -40,4 +40,4 @@ Azure • Terraform • GitHub Actions • Docker • Kubernetes • Linux • B
 
 ---
 
-⭐ Always learning new cloud & DevOps technologies
+⭐ Always learning new cloud & DevOps technologies.
