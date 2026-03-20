@@ -36,7 +36,7 @@ Azure • Terraform • GitHub Actions • Docker • Kubernetes • Linux • B
 
 ## 📫 Connect with Me
 
-📧 Email: shivam.sharma.cloud.ops@gmail.com
+📧 Email: shivam.sharma.cloud.eng@gmail.com
 
 ---
 
